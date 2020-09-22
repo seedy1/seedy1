@@ -2,8 +2,8 @@
 
 # I am an Engineer.
 - 👀 I’m currently looking for a software engineering job.
-- 👻 I’m currently learning the MERN stack.
-- 🤖 I am Studying a Masters in Artificail intellignce at [AMMI][AMMIwebsite]
+- 👻 I am studying a Masters in Software Engierning at [EFREI Paris][efrei].
+- 🤖 I studied a Masters in Artificial intellignce at [AMMI][AMMIwebsite].
 - 👯 I’m looking for an opportunity to share and also give.
 - 🎮 Basketball player with Legendary FIFA skils.
 
@@ -64,3 +64,4 @@
 [youtube]: https://www.youtube.com/channel/UCDgIcPZhZojjKxtimQ8gCVA/featured
 [linkedin]: https://www.linkedin.com/in/seedy-jobe/
 [AMMIwebsite]: https://aimsammi.org/
+[efrei]: https://www.efrei.fr/programme-grande-ecole/le-cycle-ingenieur/ingenieur-software-engineering/
