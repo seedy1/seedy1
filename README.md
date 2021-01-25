@@ -5,7 +5,7 @@
 - 👻 I am studying a Masters in Software Engierning at [EFREI Paris][efrei].
 - 🤖 I studied a Masters in Artificial intellignce at [AMMI][AMMIwebsite].
 - 👯 I’m looking for an opportunity to share and also give.
-- 🎮 Basketball player with Legendary FIFA skils.
+- 🎮 Basketball player with Legendary FIFA skils and COD.
 
 ## Contact Me:
 
