@@ -1,7 +1,7 @@
 ## Hi there, I'm [Seedy][website] 🇬🇲
 
 # I am an Engineer.
-- 👀 I’m currently looking for a graduate software engineering role or simialr.
+- 👀 I’m currently looking for a graduate software engineering role or similar.
 - 👻 A Software Engierning student at [EFREI Paris][efrei].
 - 🤖 I studied a Masters in Artificial intellignce at [AMMI][AMMIwebsite].
 
